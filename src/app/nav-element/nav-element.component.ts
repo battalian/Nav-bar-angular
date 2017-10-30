@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./nav-element.component.css']
 })
 export class NavElementComponent  {
-  home = 'home';
+  home = 'Home';
   about = 'About';
   contacts = 'Contacts';
   curActive = 1;
